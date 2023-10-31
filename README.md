@@ -50,7 +50,6 @@ admin.site.register(Football,FootballAdmin)
 ## OUTPUT
 
 ![Alt text](exp2a.png)
-![Alt text](exp2b.png)
 
 
 ## RESULT
