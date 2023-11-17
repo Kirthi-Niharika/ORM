@@ -49,6 +49,7 @@ admin.site.register(Football,FootballAdmin)
 ## OUTPUT
 <img width="960" alt="exp2a" src="https://github.com/Kirthi-Niharika/ORM/assets/114135005/774dd167-ebff-4214-ba26-0cbc641d16f0">
 <img width="960" alt="exp2b" src="https://github.com/Kirthi-Niharika/ORM/assets/114135005/db135066-af48-4d4f-82c6-1eb7d1ad2c65">
+
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
 
