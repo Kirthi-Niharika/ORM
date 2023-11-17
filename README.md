@@ -1,4 +1,4 @@
-# Ex02 Django ORM Web Application
+![image](https://github.com/Kirthi-Niharika/ORM/assets/114135005/d93f7714-dd0e-4812-b213-c2794eaf39d4)<img width="960" alt="exp2a" src="https://github.com/Kirthi-Niharika/ORM/assets/114135005/72f1c69b-c36f-424c-84dc-c715154d92d1"># Ex02 Django ORM Web Application
 ## Date: 25.09.2023
 
 ## AIM
@@ -46,12 +46,9 @@ from .models import Football,FootballAdmin
 admin.site.register(Football,FootballAdmin)
 
 ```
-
 ## OUTPUT
-
-![Alt text](exp2a.png)
-
-
+<img width="960" alt="exp2a" src="https://github.com/Kirthi-Niharika/ORM/assets/114135005/774dd167-ebff-4214-ba26-0cbc641d16f0">
+<img width="960" alt="exp2b" src="https://github.com/Kirthi-Niharika/ORM/assets/114135005/db135066-af48-4d4f-82c6-1eb7d1ad2c65">
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
 
