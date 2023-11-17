@@ -1,4 +1,4 @@
-![image](https://github.com/Kirthi-Niharika/ORM/assets/114135005/d93f7714-dd0e-4812-b213-c2794eaf39d4)<img width="960" alt="exp2a" src="https://github.com/Kirthi-Niharika/ORM/assets/114135005/72f1c69b-c36f-424c-84dc-c715154d92d1"># Ex02 Django ORM Web Application
+# Ex02 Django ORM Web Application
 ## Date: 25.09.2023
 
 ## AIM
